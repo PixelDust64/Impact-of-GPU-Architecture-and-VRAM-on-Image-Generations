@@ -24,7 +24,7 @@ The experiments include heterogeneous GPUs and edge-oriented devices, including:
 
 ## Included Metadata
 
-The repository may include:
+The images on repository include:
 
 * Prompt
 * Negative prompt
@@ -33,7 +33,6 @@ The repository may include:
 * Scheduler
 * Sampling steps
 * Resolution
-* Backend/runtime information
 
 ## Purpose
 
